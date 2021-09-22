@@ -2,10 +2,10 @@
 Analysis | Link
 ------------ | -------------
 Single cell RNA-seq analysis | [Link](https://github.com/ScrippsPipkinLab/CD8_DEV_SC)
-T cell signature reference | [Link] (https://github.com/TCellResearchTeam/T_cell_signature_Reference)
-Nascent RNA-seq analysis | [Link] (https://github.com/ScrippsPipkinLab/Exp337CD25KONascent_new)
-ChIP-seq analysis and database | [Link] (https://github.com/TCellResearchTeam/T_Cell_ChIP)
-Surface marker database | [Link] (https://github.com/Yolanda-HT/SurfaceMarkers_Cytokines)
+T cell signature reference | [Link](https://github.com/TCellResearchTeam/T_cell_signature_Reference)
+Nascent RNA-seq analysis | [Link](https://github.com/ScrippsPipkinLab/Exp337CD25KONascent_new)
+ChIP-seq analysis and database | [Link](https://github.com/TCellResearchTeam/T_Cell_ChIP)
+Surface marker database | [Link](https://github.com/Yolanda-HT/SurfaceMarkers_Cytokines)
 	
 ## Chapter 3
 Analysis | Link
